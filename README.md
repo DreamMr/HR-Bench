@@ -1,6 +1,6 @@
 # <img src="resources/logo.webp" style="vertical-align: -10px;" :height="50px" width="50px"> Divide, Conquer and Combine: A Training-Free Framework for High-Resolution Image Perception in Multimodal Large Language Models
 
-[**🤗 Dataset**](https://huggingface.co/datasets/DreamMr/HR-Bench)
+[**🤗 Dataset**](https://huggingface.co/datasets/DreamMr/HR-Bench) | [**📖 Paper**]
 <!-- [**🤗 Dataset**](https://huggingface.co/datasets/DreamMr/HR-Bench) | [**📖 Paper**]() -->
 
 This repo contains the official code and dataset for the paper "[Divide, Conquer and Combine: A Training-Free Framework for High-Resolution Image Perception in Multimodal Large Language Models]()"
