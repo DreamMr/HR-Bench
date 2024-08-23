@@ -11,7 +11,7 @@ This repo contains the official code and dataset for the paper "[Divide, Conquer
 
 ## 📜 News
 
-**[2024.8.24]** 🚀 [Huggingface Dataset](https://huggingface.co/datasets/DreamMr/HR-Bench) and $DC^2$ code are available!
+**[2024.8.23]** 🚀 [Huggingface Dataset](https://huggingface.co/datasets/DreamMr/HR-Bench) and $DC^2$ code are available!
 
 <!-- **[2024.8.26]** 🚀 We released the [ArXiv paper](). -->
 
