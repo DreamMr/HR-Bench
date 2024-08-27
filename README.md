@@ -39,10 +39,12 @@ We show a mini-leaderboard here and please find more information in our paper.
 
 | Model | **_HR-Bench 4K_** (**_Acc._**) | **_HR-Bench 8K_** (**_Acc._**) | **_Avg._** |
 |-------|:--------:|:--------:|:-------:|
-|InternVL-2-llama3-76B 🥇 | **71.0** | **61.4** | **66.2** |
-|Gemini 1.5 Flash 🥈 | 66.8 | 62.8 | 64.8 |
-|InternVL-1.5-26B 🥉 | 60.6 | 57.9 | 59.3 |
-| &nbsp;&nbsp;&nbsp;&nbsp; w/ $DC^2$ | 63.4 | 61.3 | 62.3 |
+|Human Baseline 🥇 | **82.0** | **86.8** | **84.4** |
+|InternVL-2-llama3-76B w/ our $DC^2$ 🥈 | 70.4 | 63.3 | 66.9 |
+|InternVL-2-llama3-76B 🥉 | 71.0 | 61.4 | 66.2 |
+|Gemini 1.5 Flash | 66.8 | 62.8 | 64.8 |
+|InternVL-1.5-26B w/ $DC^2$ | 63.4 | 61.3 | 62.3 |
+|InternVL-1.5-26B | 60.6 | 57.9 | 59.3 |
 |GPT4o | 59.0 | 55.5 | 57.3 |
 |QWen-VL-max | 58.5 | 52.5 | 55.5 |
 |Xcomposer2-4kHD-7B | 57.8 | 51.3 | 54.6 |
