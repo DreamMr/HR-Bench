@@ -1,7 +1,6 @@
 # <img src="resources/logo.webp" style="vertical-align: -10px;" :height="50px" width="50px"> Divide, Conquer and Combine: A Training-Free Framework for High-Resolution Image Perception in Multimodal Large Language Models
 
-[**🤗 Dataset**](https://huggingface.co/datasets/DreamMr/HR-Bench) | [**📖 Paper**]
-<!-- [**🤗 Dataset**](https://huggingface.co/datasets/DreamMr/HR-Bench) | [**📖 Paper**]() -->
+[**🤗 Dataset**](https://huggingface.co/datasets/DreamMr/HR-Bench) | [**📖 Paper**](http://arxiv.org/abs/2408.15556)
 
 This repo contains the official code and dataset for the paper "[Divide, Conquer and Combine: A Training-Free Framework for High-Resolution Image Perception in Multimodal Large Language Models]()"
 
@@ -11,9 +10,9 @@ This repo contains the official code and dataset for the paper "[Divide, Conquer
 
 ## 📜 News
 
-**[2024.8.23]** 🚀 [Huggingface Dataset](https://huggingface.co/datasets/DreamMr/HR-Bench) and $DC^2$ code are available!
+**[2024.8.29]** 🚀 We released the [ArXiv paper](http://arxiv.org/abs/2408.15556).
 
-<!-- **[2024.8.26]** 🚀 We released the [ArXiv paper](). -->
+**[2024.8.23]** 🚀 [Huggingface Dataset](https://huggingface.co/datasets/DreamMr/HR-Bench) and $DC^2$ code are available!
 
 
 ## 👀 Introduction
@@ -57,7 +56,18 @@ We show a mini-leaderboard here and please find more information in our paper.
 ## 📧 Contact
 - Wenbin Wang: wangwenbin97@whu.edu.cn 
 
-<!-- ## ✒️ Citation -->
+## ✒️ Citation
+```
+@misc{wang2024divideconquercombinetrainingfree,
+      title={Divide, Conquer and Combine: A Training-Free Framework for High-Resolution Image Perception in Multimodal Large Language Models}, 
+      author={Wenbin Wang and Liang Ding and Minyan Zeng and Xiabin Zhou and Li Shen and Yong Luo and Dacheng Tao},
+      year={2024},
+      eprint={2408.15556},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2408.15556}, 
+}
+```
 
 ## Acknowledgement
 - This work is built upon the [VLMEvalKit](https://github.com/open-compass/VLMEvalKit)
