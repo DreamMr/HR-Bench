@@ -2,7 +2,7 @@
 
 [**🤗 Dataset**](https://huggingface.co/datasets/DreamMr/HR-Bench) | [**📖 Paper**](http://arxiv.org/abs/2408.15556)
 
-This repo contains the official code and dataset for the paper "[Divide, Conquer and Combine: A Training-Free Framework for High-Resolution Image Perception in Multimodal Large Language Models]()"
+This repo contains the official code and dataset for the paper "[Divide, Conquer and Combine: A Training-Free Framework for High-Resolution Image Perception in Multimodal Large Language Models](http://arxiv.org/abs/2408.15556)"
 
 ## 💡 Highlights
 - 🔥 We introduce **_HR-Bench_** to systematically evaluate the perception ability of MLLMs in high-resolution (8K resolution) images.
