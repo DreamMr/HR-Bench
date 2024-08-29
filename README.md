@@ -34,7 +34,7 @@ We observe that most current MLLMs (e.g., LLaVA-v1.5) perceive images in a fixed
 
 ## 🏆 Mini-Leaderboard
 
-We show a mini-leaderboard here and please find more information in our paper.
+We show a mini-leaderboard here and please find more information in our paper. (👏🏻Any new results are welcome. Please add your results and model/paper links through an issue or pull request.)
 
 | Model | **_HR-Bench 4K_** (**_Acc._**) | **_HR-Bench 8K_** (**_Acc._**) | **_Avg._** |
 |-------|:--------:|:--------:|:-------:|
@@ -58,13 +58,11 @@ We show a mini-leaderboard here and please find more information in our paper.
 
 ## ✒️ Citation
 ```
-@misc{wang2024divideconquercombinetrainingfree,
+@article{hrbench,
       title={Divide, Conquer and Combine: A Training-Free Framework for High-Resolution Image Perception in Multimodal Large Language Models}, 
       author={Wenbin Wang and Liang Ding and Minyan Zeng and Xiabin Zhou and Li Shen and Yong Luo and Dacheng Tao},
       year={2024},
-      eprint={2408.15556},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
+      journal={arXiv preprint},
       url={https://arxiv.org/abs/2408.15556}, 
 }
 ```
