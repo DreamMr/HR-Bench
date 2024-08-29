@@ -58,8 +58,8 @@ class ImageMCQDataset(ImageBaseDataset):
 class HRBenchDataset(ImageMCQDataset):
 
     DATASET_URL = {
-        'HRBench4K': 'https://huggingface.co/datasets/DreamMr/HR-Bench/blob/main/hr_bench_4k.tsv',
-        'HRBench8K': 'https://huggingface.co/datasets/DreamMr/HR-Bench/blob/main/hr_bench_8k.tsv',
+        'HRBench4K': 'https://huggingface.co/datasets/DreamMr/HR-Bench/resolve/main/hr_bench_4k.tsv',
+        'HRBench8K': 'https://huggingface.co/datasets/DreamMr/HR-Bench/resolve/main/hr_bench_8k.tsv',
     }
 
     DATASET_MD5 = {
