@@ -9,7 +9,7 @@ This repo contains the official code and dataset for the paper "[Divide, Conquer
 - 🔥 We propose a training-free framework **$DC^2$** to effectively enhance the MLLM's perceive ability on high-resolution images.
 
 ## 📜 News
-**[2024.9.9]**  🚀 HRBench has been supported in the [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) repository.
+**[2024.9.09]**  🚀 HRBench has been supported in the [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) repository.
 
 **[2024.8.29]** 🚀 We released the [ArXiv paper](http://arxiv.org/abs/2408.15556).
 
