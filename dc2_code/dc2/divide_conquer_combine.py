@@ -180,8 +180,8 @@ class DC2:
         x,y = 0,0
         
         # divide
-        direction = [[0,0],[0,1],[1,0],[1,1]] # top left, top right, bottom left, bottom right
-        dir_loc = ['top left','top right','bottom left','bottom right']
+        direction = [[0,0],[0,1],[1,0],[1,1]] # top left, bottom left, top right, bottom right
+        dir_loc = ['top left','bottom left','top right','bottom right']
         sub_react = {}
         loc_dic = {}
         for loc,dir in zip(dir_loc,direction):
