@@ -65,14 +65,15 @@ We show a mini-leaderboard here and please find more information in our paper. (
 
 ## ✒️ Citation
 ```
-@article{hrbench,
-      title={Divide, Conquer and Combine: A Training-Free Framework for High-Resolution Image Perception in Multimodal Large Language Models}, 
-      author={Wenbin Wang and Liang Ding and Minyan Zeng and Xiabin Zhou and Li Shen and Yong Luo and Dacheng Tao},
-      year={2024},
-      journal={arXiv preprint},
-      url={https://arxiv.org/abs/2408.15556}, 
-}
-```
+@inproceedings{hrbench,
+  title={Divide, conquer and combine: A training-free framework for high-resolution image perception in multimodal large language models},
+  author={Wang, Wenbin and Ding, Liang and Zeng, Minyan and Zhou, Xiabin and Shen, Li and Luo, Yong and Yu, Wei and Tao, Dacheng},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={8},
+  pages={7907--7915},
+  year={2025}
+}```
 
 ## Acknowledgement
 - This work is built upon the [VLMEvalKit](https://github.com/open-compass/VLMEvalKit)
