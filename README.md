@@ -73,7 +73,8 @@ We show a mini-leaderboard here and please find more information in our paper. (
   number={8},
   pages={7907--7915},
   year={2025}
-}```
+}
+```
 
 ## Acknowledgement
 - This work is built upon the [VLMEvalKit](https://github.com/open-compass/VLMEvalKit)
