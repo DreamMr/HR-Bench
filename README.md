@@ -44,8 +44,11 @@ We show a mini-leaderboard here and please find more information in our paper. (
 | Model | **_HR-Bench 4K_** (**_Acc._**) | **_HR-Bench 8K_** (**_Acc._**) | **_Avg._** |
 |-------|:--------:|:--------:|:-------:|
 |Human Baseline 🥇 | **82.0** | **86.8** | **84.4** |
-|InternVL-2-llama3-76B w/ our $DC^2$ 🥈 | 70.4 | 63.3 | 66.9 |
-|Qwen2VL-7B 🥉 | 66.8 | 66.5 | 66.6 |
+|Qwen3-VL 32B (instruct) 🥈|  84.6    |   81.6     |   83.0     |
+|Qwen3-VL 30B-A3B (instruct) 🥉 |   82.5    |  79.3  |  80.9   |
+|MiMo-VL-SFT 7B |    69.4     |   67.8    |  68.6   |
+|InternVL-2-llama3-76B w/ our $DC^2$ | 70.4 | 63.3 | 66.9 |
+|Qwen2VL-7B | 66.8 | 66.5 | 66.6 |
 |InternVL-2-llama3-76B | 71.0 | 61.4 | 66.2 |
 |Gemini 1.5 Flash | 66.8 | 62.8 | 64.8 |
 |InternVL-1.5-26B w/ $DC^2$ | 63.4 | 61.3 | 62.3 |
