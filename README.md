@@ -81,3 +81,4 @@ We show a mini-leaderboard here and please find more information in our paper. (
 
 ## Acknowledgement
 - This work is built upon the [VLMEvalKit](https://github.com/open-compass/VLMEvalKit)
+- We sincerely thank [Ailin Huang](https://github.com/P2Oileen) for providing the GPT-4o (gpt-4o-2024-05-13) results for our benchmark.
