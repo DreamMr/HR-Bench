@@ -50,11 +50,11 @@ We show a mini-leaderboard here and please find more information in our paper. (
 |InternVL-2-llama3-76B w/ our $DC^2$ | 70.4 | 63.3 | 66.9 |
 |Qwen2VL-7B | 66.8 | 66.5 | 66.6 |
 |InternVL-2-llama3-76B | 71.0 | 61.4 | 66.2 |
+|GPT4o (gpt-4o-2024-05-13) | 68.0 | 63.9 | 66.0 |
 |Gemini 1.5 Flash | 66.8 | 62.8 | 64.8 |
 |InternVL-1.5-26B w/ $DC^2$ | 63.4 | 61.3 | 62.3 |
 |Qwen2VL-2B | 64.0 | 58.6 | 61.3 |
 |InternVL-1.5-26B | 60.6 | 57.9 | 59.3 |
-|GPT4o | 59.0 | 55.5 | 57.3 |
 |QWen-VL-max | 58.5 | 52.5 | 55.5 |
 |Xcomposer2-4kHD-7B | 57.8 | 51.3 | 54.6 |
 |LLaVA-HR-X-13B | 53.6 | 46.9 | 50.3 |
